@@ -21,7 +21,7 @@
 title: Jacob Coreno
 email: jacob.coreno@unimelb.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD candidate at the Department of Economics of The University of Melbourne. My research focus is microeconomic theory and, more specifically, game theory and market design.
+  PhD candidate at the Department of Economics of The University of Melbourne.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jacobcoreno.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: # jekyllrb

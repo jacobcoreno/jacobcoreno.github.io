@@ -28,13 +28,9 @@ twitter_username: # jekyllrb
 github_username:  jacobcoreno
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
-  
-# theme: minima
-# plugins:
-#  - jekyll-feed
+  - jekyll-feed
 
 # Custom order of header pages
 header_pages:

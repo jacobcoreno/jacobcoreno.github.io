@@ -21,16 +21,23 @@
 title: Jacob Coreno
 email: jacob.coreno@unimelb.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD candidate at the Department of Economics of The University of Melbourne.
+  I am a PhD candidate at the Department of Economics of The University of Melbourne.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jacobcoreno.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: # jekyllrb
 github_username:  jacobcoreno
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+# theme: jekyll-theme-minimal 
+
+# theme: minima
+# plugins:
+#  - jekyll-feed
 
 # Custom order of header pages
 header_pages:

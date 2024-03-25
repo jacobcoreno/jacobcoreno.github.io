@@ -6,7 +6,7 @@ permalink: /Research/
 
 ## Working Papers
 
-### [An Axiomatic Characterization of Draft Rules](https://arxiv.org/abs/2204.08300)
+### [Axiomatic Characterizations of Draft Rules](https://arxiv.org/abs/2204.08300)
 #### (with [Ivan Balbuzanov](https://sites.google.com/site/ibalbuzanov/))
 [Download PDF](https://arxiv.org/pdf/2204.08300.pdf)
 

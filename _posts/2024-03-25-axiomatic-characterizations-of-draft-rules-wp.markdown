@@ -4,7 +4,7 @@ title:  "Updated Working Paper"
 date:   2024-03-25 09:00:00 +1100
 categories: research update
 ---
-Check out the latest version of _Axiomatic Characterizations of Draft Rules_ on my [Research](/research) page.
+Check out the latest version of _Axiomatic Characterizations of Draft Rules_ on my [Research](/Research) page.
 
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

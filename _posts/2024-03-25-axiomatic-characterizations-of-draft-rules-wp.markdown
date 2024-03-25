@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to my webpage!"
-date:   2024-02-19 10:21:18 +1100
-categories: jekyll update
+title:  "Updated Working Paper: Axiomatic Characterizations of Draft Rules"
+date:   2024-03-25 09:00:00 +1100
+categories: research update
 ---
 This site is under construction.
 

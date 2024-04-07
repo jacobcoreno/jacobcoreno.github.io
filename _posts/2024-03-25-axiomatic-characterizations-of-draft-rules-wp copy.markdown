@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Updated Working Paper: Axiomatic Characterizations of Draft Rules"
-date:   2024-03-25 09:00:00 +1100
+title:  "New Working Paper: Some Characterizations of TTC in Multiple-Object Exchange Problems"
+date:   2024-04-07 16:00:00 +1100
 categories: research update
 ---
-Check out the latest version of _Axiomatic Characterizations of Draft Rules_ (joint with Ivan Balbuzanov) on my [Research](/Research) page.
+Check out my new working paper, _Some Characterizations of TTC in Multiple-Object Exchange Problems_, on my [Research](/Research) page.
 
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

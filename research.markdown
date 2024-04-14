@@ -6,8 +6,8 @@ permalink: /Research/
 
 ## Working Papers
 
-### Some Characterizations of TTC in Multiple-Object Exchange Problems
-[Download PDF](https://jacobcoreno.github.io/docs/Some_Characterizations_of_TTC_WP_24-04-07.pdf)
+### [Some Characterizations of TTC in Multiple-Object Exchange Problems](https://arxiv.org/abs/2404.04822)
+[Download PDF](https://arxiv.org/pdf/2404.04822)
 
 This paper considers exchange of indivisible objects when agents are endowed with and desire bundles of objects. Agents are assumed to have lexicographic preferences over bundles. We show that _Top Trading Cycles (TTC)_ is characterized by _efficiency_, the _weak endowment lower bound_, _balancedness_, and _truncation-proofness_. In the classic Shapley–Scarf Economy, TTC is characterized by _efficiency_, _individual rationality_, and _truncation-proofness_. These results strengthen the uniqueness results of Ma (1994) and, more recently, Altuntaş et al. (2023). In a model with variable endowments, TTC is susceptible to various forms of _endowment manipulation_. However, no rule is _core-selecting_ and _hiding-proof_.
 

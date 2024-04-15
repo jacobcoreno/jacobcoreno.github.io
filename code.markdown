@@ -6,8 +6,8 @@ permalink: /Code/
 
 This page is under construction.
 
-% ## Python
+[comment]: <> (## Python) 
 
 
-% ## Julia
+[comment]: <> (## Julia) 
 

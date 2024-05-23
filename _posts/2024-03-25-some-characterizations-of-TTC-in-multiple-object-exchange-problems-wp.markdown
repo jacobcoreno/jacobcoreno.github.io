@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "New Working Paper: Some Characterizations of TTC in Multiple-Object Exchange Problems"
-date:   2024-04-07 16:00:00 +1100
+title:  "Updated Working Paper: Some Characterizations of TTC in Multiple-Object Reallocation Problems"
+date:   2024-05-20 16:00:00 +1100
 categories: research update
 ---
-Check out my new working paper, _Some Characterizations of TTC in Multiple-Object Exchange Problems_, on my [Research](/Research) page.
+Check out the latest version of _Some Characterizations of TTC in Multiple-Object Reallocation Problems_ (joint with Di Feng) on my [Research](/Research) page.
 
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

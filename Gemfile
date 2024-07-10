@@ -5,6 +5,8 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
+ruby '3.3.3' # Macbook Ruby version; possibly change this when running on other devices
+
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.3"

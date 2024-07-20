@@ -9,7 +9,7 @@
       link: https://jacobcoreno.github.io
       link_text: https://jacobcoreno.github.io
     - name: About
-      value: I do research in microeconomic theory, with a particular focus on aspects of fairness in market design. 
+      value: I do research in microeconomic theory, with a particular focus on aspects of <strong>fairness</strong> in <strong>market design</strong>. 
     # - name: Date of Birth
     #   value: 19th March 1993
     # - name: Languages
@@ -93,7 +93,7 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Seminars & Conferences
+- title: Seminars and Conferences
   type: nested_list
   contents:
     - title: Conferences
@@ -104,30 +104,42 @@
       items:
         - Graduate Students Seminar (SLMath, Berkeley, 2023)
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+# - title: Selected Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2018
+#       items:  
+#         - Melbourne Global Scholars Award (Melbourne University)
+#     - year: 2016
+#       items:
+#         - Vice Chancellor's Medal (Deakin University)
+#     - year: 2015
+#       items:
+#         - Alfred Deakin Medal (Deakin University)
 
-- title: Academic Interests
+- title: Selected Honors and Achievements
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+      - title: 
+        items:
+          - FBE Graduate Research Abroad Travelling Scholarship (University of Melbourne, 2023)
+          - Melbourne Global Scholars Award (University of Melbourne, 2018)
+          - Vice Chancellor's Medal (Deakin University, 2016) 
+          - Alfred Deakin Medal (Deakin University, 2015)
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> surfing, climbing, wine.

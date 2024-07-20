@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jacob Coreno",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jacob.coreno@unimelb.edu.au",
+    // "phone": "(912) 123-4567",
+    "url": "https://jacobcoreno.github.io",
+    "summary": "I do research in microeconomic theory, with a particular focus on aspects of fairness in market design.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Jacob Coreno",
+        "url": "https://www.linkedin.com/in/jacob-coreno-aab93728b/"
       }
     ]
   },

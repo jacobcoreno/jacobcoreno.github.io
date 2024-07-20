@@ -16,8 +16,8 @@
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "Jacob Coreno",
+        "network": "linkedin",
+        "username": "jacob-coreno-aab93728b",
         "url": "https://www.linkedin.com/in/jacob-coreno-aab93728b/"
       }
     ]
@@ -50,12 +50,69 @@
       "institution": "The University of Melbourne, Melbourne, Australia",
       "location": "Melbourne, Australia",
       "url": "https://www.unimelb.edu.au/",
-      "area": "Economics",
-      "studyType": "PhD",
-      "startDate": "2019" // "2019-01-01",
-      "endDate": "2024" // "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      // "area": "Dissertation: Essays in Matching",
+      "studyType": "PhD in Economics",
+      "startDate": "2019", // "2019-01-01",
+      "endDate": "2024", // "1905-01-01",
+      "score": "10"
+      // "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "The University of Melbourne",
+      "location": "Melbourne, Australia",
+      "url": "https://www.unimelb.edu.au/",
+      // "area": "Dissertation: Essays in Matching",
+      "studyType": "Master of Economics",
+      "startDate": "2017", // "2019-01-01",
+      "endDate": "2018", // "1905-01-01",
+      "score": "10"
+      // "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Bocconi University",
+      "location": "Milan, Italy",
+      "url": "https://www.unibocconi.it/en",
+      // "area": "Dissertation: Essays in Matching",
+      "studyType": "Visiting Student",
+      "startDate": "2018-07-01", // "2019-01-01",
+      "endDate": "2018-12-31", // "1905-01-01",
+      "score": "10"
+      // "courses": ["Theory of Relativity"]
+    }
+    ,    {
+      "institution": "Simons Laufer Mathematical Sciences Institute (SLMath)",
+      "location": "Berkeley, USA",
+      "url": "https://www.unibocconi.it/en",
+      // "area": "Dissertation: Essays in Matching",
+      "studyType": "Program Associate",
+      "startDate": "2023-10-01", // "2019-01-01",
+      "endDate": "2023-12-31", // "1905-01-01",
+      "score": "10"
+      // "courses": ["Theory of Relativity"]
+    }
+  ],
+  "visiting_positions": [
+    {
+      "institution": "Bocconi University",
+      "location": "Milan, Italy",
+      "url": "https://www.unibocconi.it/en",
+      // "area": "Dissertation: Essays in Matching",
+      "studyType": "Visiting Student",
+      "startDate": "2018-07-01", // "2019-01-01",
+      "endDate": "2018-12-31", // "1905-01-01",
+      "score": "10"
+      // "courses": ["Theory of Relativity"]
+    }
+    ,    {
+      "institution": "Simons Laufer Mathematical Sciences Institute (SLMath)",
+      "location": "Berkeley, USA",
+      "url": "https://www.unibocconi.it/en",
+      // "area": "Dissertation: Essays in Matching",
+      "studyType": "Program Associate",
+      "startDate": "2023-10-01", // "2019-01-01",
+      "endDate": "2023-12-31", // "1905-01-01",
+      "score": "10"
+      // "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [

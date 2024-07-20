@@ -47,13 +47,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "The University of Melbourne, Melbourne, Australia",
+      "location": "Melbourne, Australia",
+      "url": "https://www.unimelb.edu.au/",
+      "area": "Economics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019" // "2019-01-01",
+      "endDate": "2024" // "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }

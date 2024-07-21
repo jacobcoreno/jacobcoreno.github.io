@@ -140,6 +140,10 @@
 #         - Description 2.
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> surfing, climbing, wine.
+    - title: Hobbies
+      items:
+        - Surfing
+        - Climbing 
+        - Wine (WSET Level 2)

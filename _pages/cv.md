@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: Below is a summary of my CV. A complete PDF version can be downloaded here.
+cv_pdf: # example_pdf.pdf
+description: # Below is a summary of my CV. A complete PDF version can be downloaded here.
 
 # This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:

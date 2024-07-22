@@ -93,16 +93,6 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Seminars and Conferences
-  type: nested_list
-  contents:
-    - title: Conferences
-      items:
-        - MATCH-UP (Oxford, 2024—Forthcoming)
-        - Society for the Advancement of Economic Theory (ANU, Canberra, 2022)
-    - title: Seminars
-      items:
-        - Graduate Students Seminar (SLMath, Berkeley, 2023)
 
 # - title: Selected Honors and Awards
 #   type: time_table
@@ -117,7 +107,7 @@
 #       items:
 #         - Alfred Deakin Medal (Deakin University)
 
-- title: Selected Honors and Achievements
+- title: Selected Honors and Awards
   type: nested_list
   contents:
       - title: 
@@ -126,6 +116,23 @@
           - Melbourne Global Scholars Award (University of Melbourne, 2018)
           - Vice Chancellor's Medal (Deakin University, 2016) 
           - Alfred Deakin Medal (Deakin University, 2015)
+
+
+- title: Academic Activities
+  type: nested_list
+  contents:
+    - title: Conference presentations
+      items:
+        - MATCH-UP (Oxford, 2024—Forthcoming)
+        - Society for the Advancement of Economic Theory (ANU, Canberra, 2022)
+    - title: Seminar presentations
+      items:
+        - Graduate Students Seminar (SLMath, Berkeley, 2023)
+    - title: Reviewer
+      items:
+        - Games and Economic Behavior
+
+    
 
 # - title: Academic Interests
 #   type: nested_list
@@ -139,11 +146,11 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Other Interests
-  type: nested_list
-  contents:
-    - title: Hobbies
-      items:
-        - Surfing
-        - Climbing 
-        - Wine (WSET Level 2)
+# - title: Other Interests
+#   type: nested_list
+#   contents:
+#     - title: Hobbies
+#       items:
+#         - Surfing
+#         - Climbing 
+#         - Wine (WSET Level 2)

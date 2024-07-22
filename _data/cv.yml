@@ -21,6 +21,11 @@
     - title: PhD in Economics
       institution: <a href="https://www.unimelb.edu.au/">The University of Melbourne</a>, Melbourne, Australia
       year: 2019-2024
+      description:
+        - title: "Dissertation Committee: "
+          contents:
+            - <a href="https://sites.google.com/site/ibalbuzanov/">Ivan Balbuzanov</a>, <a href="https://www.nichifor.net/">Alex Nichifor</a>, Steven Williams 
+
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -28,6 +33,7 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
+
     - title: Master of Economics
       institution: <a href="https://www.unimelb.edu.au/">The University of Melbourne</a>, Melbourne, Australia
       year: 2017-2018

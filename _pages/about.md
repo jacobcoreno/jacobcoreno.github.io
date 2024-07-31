@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the Department of Economics at The University of Melbourne, where I am very fortunate to be advised by [Ivan Balbuzanov](https://sites.google.com/site/ibalbuzanov/home).
+I am a PhD candidate in the Department of Economics at The University of Melbourne, where I am very fortunate to be advised by [Ivan Balbuzanov](https://sites.google.com/site/ibalbuzanov/home) and [Alex Nichifor](https://www.nichifor.net/).
 
 I do research in microeconomic theory, with a particular focus on aspects of **fairness** in **market design**.
 

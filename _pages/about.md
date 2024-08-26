@@ -22,6 +22,13 @@ I am a PhD candidate in the Department of Economics at The University of Melbour
 
 I do research in microeconomic theory, with a particular focus on aspects of **fairness** in **market design**.
 
+I am on the **2024/2025 academic job market** and I will be available for interviews.[^1] 
+
+<br>
+
+[^1]: <span style="font-size: 0.80em">If you don't hire me, then I hope you will consider hiring one of my talented colleagues and friends: [Toan Le](https://levokhanhtoan.com/), [Tao Sun](https://sites.google.com/view/taosun), [Lingguo Xu](https://www.lingguoxu.com/).</span>
+
+
 <!-- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

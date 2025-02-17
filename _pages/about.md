@@ -22,7 +22,7 @@ I am a PhD candidate in the Department of Economics at The University of Melbour
 
 I do research in microeconomic theory, with a particular focus on aspects of **fairness** in **market design**.
 
-I am on the **2024/2025 academic job market** and available for interviews.[^1] 
+I am on the **2024/2025 academic job market** and I am available for interviews.[^1] 
 
 <br>
 

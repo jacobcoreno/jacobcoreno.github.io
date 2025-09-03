@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student, The University of Melbourne</a>.
+subtitle: <a href='#'>Postdoctoral Scholar, University of Lausanne</a>.
 
 profile:
   align: right
@@ -18,9 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the Department of Economics at The University of Melbourne, where I am very fortunate to be advised by [Ivan Balbuzanov](https://sites.google.com/site/ibalbuzanov/home) and [Alex Nichifor](https://www.nichifor.net/).
+I am a Postdoctoral Scholar at the [Department of Economics](https://www.unil.ch/de/en/home.html), [Faculty of Business and Economics (HEC)](https://www.unil.ch/hec/en/home.html), University of Lausanne, Switzerland. I do research in microeconomic theory, with a particular focus on aspects of **fairness** in **market design**.
 
-I do research in microeconomic theory, with a particular focus on aspects of **fairness** in **market design**.
+I completed my PhD in the Department of Economics at The University of Melbourne, where I was very fortunate to be advised by [Ivan Balbuzanov](https://sites.google.com/site/ibalbuzanov/home) and [Alex Nichifor](https://www.nichifor.net/).
+
 
 <!-- I am on the **2024/2025 academic job market** and I am available for interviews.[^1] 
 

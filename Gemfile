@@ -12,7 +12,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
-    gem 'jekyll-scholar'
+    gem 'jekyll-scholar', '>= 6.0'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
@@ -21,6 +21,8 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'kramdown', '~> 2.4'
+    gem 'kramdown-parser-gfm', '~> 1.1'
 end
 group :other_plugins do
     gem 'css_parser'

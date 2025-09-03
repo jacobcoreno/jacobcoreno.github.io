@@ -4,23 +4,24 @@
     - name: Name
       value: Jacob Coreno
     - name: Email
-      value: jacob.coreno@unimelb.edu.au
+      value: jacob.coreno@unil.ch
     - name: Website
       link: https://jacobcoreno.github.io
       link_text: https://jacobcoreno.github.io
     - name: About
-      value: I do research in microeconomic theory, with a particular focus on aspects of <strong>fairness</strong> in <strong>market design</strong>. 
+      value: I am a Postdoctoral Scholar in the Department of Economics at the University of Lausanne. I do research in microeconomic theory, with a particular focus on aspects of <strong>fairness</strong> in <strong>market design</strong>. 
     # - name: Date of Birth
     #   value: 19th March 1993
     # - name: Languages
     #   value: English
+
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Economics
       institution: <a href="https://www.unimelb.edu.au/">The University of Melbourne</a>, Melbourne, Australia
-      year: 2019-Present
+      year: 2019-2025
       description:
         - title: "Dissertation Committee: "
           contents:
@@ -146,7 +147,7 @@
         - Simons Laufer Mathematical Sciences Institute 2023 (Berkeley, USA)
     - title: Reviewer
       items:
-        - Management Science, Games and Economic Behavior
+        - Management Science, Games and Economic Behavior, Journal of Policy Analysis and Management
 
     
     

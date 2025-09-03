@@ -6,6 +6,5 @@ inline: true
 related_posts: false
 ---
 
-Published in *Economics Letters*:\
+Published in _Economics Letters_:\
 [Characterizing TTC via endowments-swapping-proofness and truncation-proofness](https://jacobcoreno.github.io/assets/pdf/Characterizing_TTC_through_endowments-swapping-proofness.pdf) (with [Di Feng](https://dfengecon.github.io/))
-

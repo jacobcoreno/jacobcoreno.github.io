@@ -22,8 +22,7 @@ I am a Postdoctoral Scholar at the [Department of Economics](https://www.unil.ch
 
 I completed my PhD in the Department of Economics at The University of Melbourne, where I was very fortunate to be advised by [Ivan Balbuzanov](https://sites.google.com/site/ibalbuzanov/home) and [Alex Nichifor](https://www.nichifor.net/).
 
-
-<!-- I am on the **2024/2025 academic job market** and I am available for interviews.[^1] 
+<!-- I am on the **2024/2025 academic job market** and I am available for interviews.[^1]
 
 <br>
 

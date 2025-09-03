@@ -9,12 +9,11 @@
       link: https://jacobcoreno.github.io
       link_text: https://jacobcoreno.github.io
     - name: About
-      value: I am a Postdoctoral Scholar in the Department of Economics at the University of Lausanne. I do research in microeconomic theory, with a particular focus on aspects of <strong>fairness</strong> in <strong>market design</strong>. 
+      value: I am a Postdoctoral Scholar in the Department of Economics at the University of Lausanne. I do research in microeconomic theory, with a particular focus on aspects of <strong>fairness</strong> in <strong>market design</strong>.
     # - name: Date of Birth
     #   value: 19th March 1993
     # - name: Languages
     #   value: English
-
 
 - title: Education
   type: time_table
@@ -54,7 +53,7 @@
     - title: Program Associate (Algorithms, Fairness, and Equity Program)
       institution: <a href="https://www.slmath.org/">Simons Laufer Mathematical Sciences Institute (SLMath)</a>, Berkeley, USA
       year: 2023 Oct-Dec
-      # description: 
+      # description:
       #   - Description 1.
     - title: Visiting Student
       institution: <a href="https://www.unibocconi.it/en">Bocconi University</a>, Milan, Italy
@@ -100,12 +99,11 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-
 # - title: Selected Honors and Awards
 #   type: time_table
 #   contents:
 #     - year: 2018
-#       items:  
+#       items:
 #         - Melbourne Global Scholars Award (Melbourne University)
 #     - year: 2016
 #       items:
@@ -117,19 +115,18 @@
 - title: Selected Honors and Awards
   type: nested_list
   contents:
-      - title: 
-        items:
-          - FBE Graduate Research Abroad Travelling Scholarship (University of Melbourne, 2024)
-          - FBE Graduate Research Enhancement Grant (University of Melbourne, 2024)
-          - FBE Graduate Research Abroad Travelling Scholarship (University of Melbourne, 2023)
-          - M. A. Bartlett Research Scholarship (University of Melbourne, 2023)
-          - Melbourne Global Scholars Award (University of Melbourne, 2018)
-          - Vice Chancellor's Medal for Recognizing Excellence (Deakin University, 2016) 
-          - Vice Chancellor's Prize (Deakin University, 2016)
-          - Australian Bureau of Statistics Prize (Deakin University, 2016)
-          - Alfred Deakin Medal (Deakin University, 2015)
-          - Deakin Business School Prize (Deakin University, 2015)
-
+    - title:
+      items:
+        - FBE Graduate Research Abroad Travelling Scholarship (University of Melbourne, 2024)
+        - FBE Graduate Research Enhancement Grant (University of Melbourne, 2024)
+        - FBE Graduate Research Abroad Travelling Scholarship (University of Melbourne, 2023)
+        - M. A. Bartlett Research Scholarship (University of Melbourne, 2023)
+        - Melbourne Global Scholars Award (University of Melbourne, 2018)
+        - Vice Chancellor's Medal for Recognizing Excellence (Deakin University, 2016)
+        - Vice Chancellor's Prize (Deakin University, 2016)
+        - Australian Bureau of Statistics Prize (Deakin University, 2016)
+        - Alfred Deakin Medal (Deakin University, 2015)
+        - Deakin Business School Prize (Deakin University, 2015)
 
 - title: Academic Activities
   type: nested_list
@@ -148,9 +145,6 @@
     - title: Reviewer
       items:
         - Management Science, Games and Economic Behavior, Journal of Policy Analysis and Management
-
-    
-    
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
@@ -169,6 +163,6 @@
 #     - title: Hobbies
 #       items:
 #         - Surfing
-#         - Climbing 
+#         - Climbing
 #         - Wine (WSET Level 2)
 

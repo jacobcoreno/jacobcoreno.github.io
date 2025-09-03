@@ -78,8 +78,8 @@
       "endDate": "2018-12-31", // "1905-01-01",
       "score": "10"
       // "courses": ["Theory of Relativity"]
-    }
-    ,    {
+    },
+    {
       "institution": "Simons Laufer Mathematical Sciences Institute (SLMath)",
       "location": "Berkeley, USA",
       "url": "https://www.unibocconi.it/en",
@@ -102,8 +102,8 @@
       "endDate": "2018-12-31", // "1905-01-01",
       "score": "10"
       // "courses": ["Theory of Relativity"]
-    }
-    ,    {
+    },
+    {
       "institution": "Simons Laufer Mathematical Sciences Institute (SLMath)",
       "location": "Berkeley, USA",
       "url": "https://www.unibocconi.it/en",

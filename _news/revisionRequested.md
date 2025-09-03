@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Revision requested at the _Journal of Economic Theory_:\
-[Axiomatic Characterizations of Draft Rules](https://arxiv.org/abs/2204.08300) (with [Ivan Balbuzanov](https://sites.google.com/site/ibalbuzanov/)) 
+[Axiomatic Characterizations of Draft Rules](https://arxiv.org/abs/2204.08300) (with [Ivan Balbuzanov](https://sites.google.com/site/ibalbuzanov/))

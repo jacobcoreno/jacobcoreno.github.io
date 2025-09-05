@@ -70,8 +70,12 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2.2"
+          ruby-version: "3.4"
           bundler-cache: true
+      - name: Install OS packages (for jekyll-imagemagick) 🧰
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:

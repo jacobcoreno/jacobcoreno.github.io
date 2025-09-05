@@ -42,11 +42,49 @@ jobs:
   link-checker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # - uses: actions/checkout@v4
+
+      # - name: Link Checker 🔗
+      #   uses: lycheeverse/lychee-action@v1.9.0
+      #   with:
+      #     fail: true
+      #     # removed md files that include liquid tags
+      #     args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby 💎
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.4 # Same version of Ruby as in Gemfile
+          bundler-cache: true
+
+      - name: Install OS packages 🧰
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Install gems 📦
+        run: bundle install --jobs 4 --retry 3
+
+      - name: Build site 🏗️
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
 
       - name: Link Checker 🔗
+        id: lychee
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: --config ./lychee.toml ./_site
+
+      - name: Upload lychee report ⬆️
+        if: ${{ failure() && steps.lychee.outcome == 'failure' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: |
+            lychee-out.md
+            lychee.log
+          retention-days: 7

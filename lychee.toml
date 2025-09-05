@@ -1,0 +1,40 @@
+# Be chatty in CI logs, but don't show a progress bar
+verbose = true
+no_progress = true
+
+# Retry a bit; some sites are flaky
+max_retries = 3
+retry_wait_time = 2
+max_concurrency = 10
+
+# Accept some common “not really broken” statuses
+# 401/403: gated content but URL exists
+# 999: LinkedIn's special code
+accept = ["200..399", "401", "403", "999"]
+
+# Gentle user agent (some sites block unknown bots)
+user_agent = "curl/7.54"
+
+# Skip domains that routinely block bots or need JS
+exclude = [
+  "linkedin.com",
+  "www.linkedin.com",
+  "twitter.com",
+  "www.twitter.com",
+  "x.com",
+  "facebook.com",
+  "instagram.com",
+  "scholar.google.com",
+]
+
+# Skip schemes that aren't HTTP links
+exclude_mail = true
+exclude_tel = true
+
+# Skip specific source files (Liquid-heavy or not relevant)
+exclude_path = [
+  "README.md",
+  "_pages/404.md",
+  "_posts/2018-12-22-distill.md",
+  "_posts/2023-04-24-videos.md"
+]

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Published in Economics Letters
-date: 2025-02-01 # 16:11:00-0400
+title: Moving to Lausanne
+date: 2025-04-01 # 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Published in _Economics Letters_:\
-[Characterizing TTC via endowments-swapping-proofness and truncation-proofness](https://jacobcoreno.github.io/assets/pdf/Characterizing_TTC_through_endowments-swapping-proofness.pdf) (with [Di Feng](https://dfengecon.github.io/))
+I am pleased to announce that I will be undertaking a Postdoctoral Research Fellowship at the [Department of Economics](https://www.unil.ch/de/en/home.html), [Faculty of Business and Economics (HEC)](https://www.unil.ch/hec/en/home.html), University of Lausanne, Switzerland from September 2025.
